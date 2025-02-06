@@ -16,4 +16,4 @@ We have been looking at a few libraries or tools for our graphs. There are a few
   - unittest (library for testing)
   - Astroid (parsing Python-projects)
 - Cytoscape.js (Graphs)
-- Docker (maybe)
+- Docker (maybe)    
