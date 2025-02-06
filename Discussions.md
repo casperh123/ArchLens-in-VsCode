@@ -17,3 +17,12 @@ We have been looking at a few libraries or tools for our graphs. There are a few
   - Astroid (parsing Python-projects)
 - Cytoscape.js (Graphs)
 - Docker (maybe)    
+
+## Current expansion ideas:
+ - Dynamically create diagrams
+ - Interactive edges (Click edge for info and a ‘jump-to-line’ button)
+ - More diagrams (Add UML)
+ - Integrate version-control (Select commit to compare with current)
+   - Diff-view
+ - Export picture of graph
+ - 
